@@ -1,5 +1,9 @@
 I have Completed HSC
 I have a computer.
+<<<<<<< HEAD
 I am a student.
 I have started 
 I will join empile.
+=======
+I am a student in honours.
+>>>>>>> 41c76d7676d739e4ba401aaaf24b02bbbac4b096
